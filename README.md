@@ -13,6 +13,7 @@ How to configure SafeNet eToken in Linux
 
 * Ubuntu 18.04 (working on Chrome and Firefox)
 * Ubuntu 20.04 (not working yet)
+* Archlinux
 
 ### Recover the safenet eToken lib path
 
